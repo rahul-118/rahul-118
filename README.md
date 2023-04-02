@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and learning new technologies. 
 - 🌱 I’m learning SQL,Python,Excel and Big Data.
 - 💞️ I’m Currently working at Cognizant.
-- 💻 I work using SAP. Have knowledge in SAP Retail and SAP ABAP
+- 💻 I pursueing more skills to improve myself in building a Data Science Career 
 
 
 <!---
