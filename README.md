@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and learning new technologies. 
 - 🌱 I’m learning SQL,Python,Excel and Big Data.
 - 💞️ I’m Currently working at Cognizant.
-- 💻 I pursueing more skills to improve myself in building a Data Science Career 
+- 💻 I am pursueing more skills to improve myself in building a Data Science Career 
 
 
 <!---
