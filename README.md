@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rahul Puthumana
 - 👀 I’m interested in Coding and learning new technologies. 
-- 🌱 I’m learning SQL,Python,Excel and Big Data.
+- 🌱 I’m learning SAP ABAP,SQL,Python,Excel and Big Data.
 - 💞️ I’m Currently working at Cognizant.
-- 💻 I'm pursueing more skills to improve myself in building a Data Science Career 
+- 💻 I'm pursueing more skills to improve myself in building a SAP ABAP Career 
 
 
 <!---
